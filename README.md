@@ -16,7 +16,7 @@
 - [thiago-coucello/nlw-setup](https://github.com/thiago-coucello/nlw-setup) -  (1 month ago)
 - [thiago-coucello/cg-textura-tga](https://github.com/thiago-coucello/cg-textura-tga) -  (3 months ago)
 - [ivopr/sakura](https://github.com/ivopr/sakura) - A Next.js tibia account manager (11 months ago)
-- [thiago-coucello/idw](https://github.com/thiago-coucello/idw) - Repositório com todos os códigos e projetos desenvolvidos na disciplina de Introdução ao Desenvolvimento Web (11 months ago)
+- [thiago-coucello/idw](https://github.com/thiago-coucello/idw) - Repositório com todos os códigos e projetos desenvolvidos na disciplina de Introdução ao Desenvolvimento Web (1 year ago)
 
 #### 📫 How to reach me
 
