@@ -14,7 +14,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [thiago-coucello/nlw-setup](https://github.com/thiago-coucello/nlw-setup) -  (1 month ago)
-- [thiago-coucello/cg-textura-tga](https://github.com/thiago-coucello/cg-textura-tga) -  (3 months ago)
+- [thiago-coucello/cg-textura-tga](https://github.com/thiago-coucello/cg-textura-tga) -  (4 months ago)
 - [ivopr/sakura](https://github.com/ivopr/sakura) - A Next.js tibia account manager (11 months ago)
 
 #### 📫 How to reach me
