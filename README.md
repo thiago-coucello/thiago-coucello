@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [thiago-coucello/nlw-setup](https://github.com/thiago-coucello/nlw-setup) -  (3 months ago)
+- [thiago-coucello/nlw-setup](https://github.com/thiago-coucello/nlw-setup) -  (4 months ago)
 - [thiago-coucello/cg-textura-tga](https://github.com/thiago-coucello/cg-textura-tga) -  (6 months ago)
 
 #### 📫 How to reach me
