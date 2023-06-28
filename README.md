@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [thiago-coucello/pdi-projeto-final](https://github.com/thiago-coucello/pdi-projeto-final) - Repositório para armazenar meu projeto final da disciplina de Processamento de Imagens. (4 weeks ago)
+- [thiago-coucello/pdi-projeto-final](https://github.com/thiago-coucello/pdi-projeto-final) - Repositório para armazenar meu projeto final da disciplina de Processamento de Imagens. (1 month ago)
 - [thiago-coucello/nlw-setup](https://github.com/thiago-coucello/nlw-setup) -  (5 months ago)
 - [thiago-coucello/cg-textura-tga](https://github.com/thiago-coucello/cg-textura-tga) -  (7 months ago)
 
