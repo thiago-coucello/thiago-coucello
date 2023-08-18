@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [thiago-coucello/pibic-2022-2023](https://github.com/thiago-coucello/pibic-2022-2023) -  (1 day ago)
 - [ivopr/sakura](https://github.com/ivopr/sakura) - A Next.js tibia account manager (1 month ago)
 - [thiago-coucello/minicurso-semcomp-2023](https://github.com/thiago-coucello/minicurso-semcomp-2023) - Repositório para auxiliar no compartilhamento de informações para o o minicurso &#34;Princípios de Visão Computacional e Deep Learning&#34; ministrado em 2023 na VI Semana da Computação UNIR (1 month ago)
 - [thiago-coucello/cg-textura-tga](https://github.com/thiago-coucello/cg-textura-tga) -  (1 month ago)
 - [thiago-coucello/pdi-projeto-final](https://github.com/thiago-coucello/pdi-projeto-final) - Repositório para armazenar meu projeto final da disciplina de Processamento de Imagens. (2 months ago)
-- [thiago-coucello/nlw-setup](https://github.com/thiago-coucello/nlw-setup) -  (6 months ago)
 
 #### 📫 How to reach me
 
