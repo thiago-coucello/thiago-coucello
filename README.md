@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [henriquesapa/SGM-Sistema-Gerenciador-de-Metas](https://github.com/henriquesapa/SGM-Sistema-Gerenciador-de-Metas) - Trabalho de engenharia de software (1 day ago)
+- [henriquesapa/SGM-Sistema-Gerenciador-de-Metas](https://github.com/henriquesapa/SGM-Sistema-Gerenciador-de-Metas) - Trabalho de engenharia de software (2 days ago)
 - [thiago-coucello/nlw-ia](https://github.com/thiago-coucello/nlw-ia) -  (1 week ago)
 - [thiago-coucello/pibic-2022-2023](https://github.com/thiago-coucello/pibic-2022-2023) -  (1 month ago)
 - [ivopr/sakura](https://github.com/ivopr/sakura) - A Next.js tibia account manager (2 months ago)
-- [thiago-coucello/minicurso-semcomp-2023](https://github.com/thiago-coucello/minicurso-semcomp-2023) - Repositório para auxiliar no compartilhamento de informações para o o minicurso &#34;Princípios de Visão Computacional e Deep Learning&#34; ministrado em 2023 na VI Semana da Computação UNIR (2 months ago)
+- [thiago-coucello/minicurso-semcomp-2023](https://github.com/thiago-coucello/minicurso-semcomp-2023) - Repositório para auxiliar no compartilhamento de informações para o o minicurso &#34;Princípios de Visão Computacional e Deep Learning&#34; ministrado em 2023 na VI Semana da Computação UNIR (3 months ago)
 
 #### 📫 How to reach me
 
