@@ -13,8 +13,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [thiago-coucello/pibic-2022-2023](https://github.com/thiago-coucello/pibic-2022-2023) -  (3 days ago)
-- [henriquesapa/SGM-Sistema-Gerenciador-de-Metas](https://github.com/henriquesapa/SGM-Sistema-Gerenciador-de-Metas) - Trabalho de engenharia de software (1 month ago)
+- [thiago-coucello/pibic-2022-2023](https://github.com/thiago-coucello/pibic-2022-2023) -  (4 days ago)
+- [henriquesapa/SGM-Sistema-Gerenciador-de-Metas](https://github.com/henriquesapa/SGM-Sistema-Gerenciador-de-Metas) - Trabalho de engenharia de software (2 months ago)
 - [thiago-coucello/nlw-ia](https://github.com/thiago-coucello/nlw-ia) -  (2 months ago)
 - [ivopr/sakura](https://github.com/ivopr/sakura) - A Next.js tibia account manager (4 months ago)
 - [thiago-coucello/minicurso-semcomp-2023](https://github.com/thiago-coucello/minicurso-semcomp-2023) - Repositório para auxiliar no compartilhamento de informações para o o minicurso &#34;Princípios de Visão Computacional e Deep Learning&#34; ministrado em 2023 na VI Semana da Computação UNIR (4 months ago)
