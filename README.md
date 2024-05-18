@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [thiago-coucello/pibic-2022-2023](https://github.com/thiago-coucello/pibic-2022-2023) -  (5 months ago)
+- [thiago-coucello/pibic-2022-2023](https://github.com/thiago-coucello/pibic-2022-2023) -  (6 months ago)
 - [henriquesapa/SGM-Sistema-Gerenciador-de-Metas](https://github.com/henriquesapa/SGM-Sistema-Gerenciador-de-Metas) - Trabalho de engenharia de software (7 months ago)
 - [thiago-coucello/nlw-ia](https://github.com/thiago-coucello/nlw-ia) -  (8 months ago)
 - [ivopr/sakura](https://github.com/ivopr/sakura) - A Next.js tibia account manager (10 months ago)
