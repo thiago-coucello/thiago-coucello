@@ -14,7 +14,6 @@
 #### 👷 Check out what I'm currently working on
 
 - [thiago-coucello/pibic-2022-2023](https://github.com/thiago-coucello/pibic-2022-2023) -  (10 months ago)
-- [henriquesapa/SGM-Sistema-Gerenciador-de-Metas](https://github.com/henriquesapa/SGM-Sistema-Gerenciador-de-Metas) - Trabalho de engenharia de software (1 year ago)
 
 #### 📫 How to reach me
 
