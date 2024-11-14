@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [thiago-coucello/pibic-2022-2023](https://github.com/thiago-coucello/pibic-2022-2023) -  (11 months ago)
+- [thiago-coucello/pibic-2022-2023](https://github.com/thiago-coucello/pibic-2022-2023) -  (1 year ago)
 
 #### 📫 How to reach me
 
