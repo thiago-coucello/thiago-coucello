@@ -13,6 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [thiago-coucello/vampire-survivors-example](https://github.com/thiago-coucello/vampire-survivors-example) - My first vampire survivors-like game with godot (1 day ago)
 
 #### 📫 How to reach me
 
