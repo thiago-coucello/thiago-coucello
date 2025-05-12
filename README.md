@@ -2,7 +2,8 @@
 
 * Aspiring full-stack developer
 * Developing researcher
-* CS student
+* Bachelor in Computer Science
+* Master's Student in Computer Science at Federal University of São Paulo (USP - ICMC)
 * Know-how:
   * Java;
   * JavaScript / TypeScript;
