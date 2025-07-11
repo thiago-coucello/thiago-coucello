@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [thiago-coucello/meta-policy-template](https://github.com/thiago-coucello/meta-policy-template) - A simple template of a privacy policy for the Meta WhatsApp API (1 month ago)
+- [thiago-coucello/meta-policy-template](https://github.com/thiago-coucello/meta-policy-template) - A simple template of a privacy policy for the Meta WhatsApp API (2 months ago)
 
 #### 📫 How to reach me
 
