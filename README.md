@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [thiago-coucello/pyopengl-studies](https://github.com/thiago-coucello/pyopengl-studies) - A simple project for my studies in PyOpenGL for Computer Graphics implementations (4 days ago)
+- [thiago-coucello/pyopengl-studies](https://github.com/thiago-coucello/pyopengl-studies) - A simple project for my studies in PyOpenGL for Computer Graphics implementations (5 days ago)
 - [thiago-coucello/meta-policy-template](https://github.com/thiago-coucello/meta-policy-template) - A simple template of a privacy policy for the Meta WhatsApp API (4 months ago)
 
 #### 📫 How to reach me
