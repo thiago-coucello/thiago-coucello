@@ -14,7 +14,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [thiago-coucello/opengl-4fun](https://github.com/thiago-coucello/opengl-4fun) - A repository for my OpenGL projects that i made while bored and trying to have fun (7 months ago)
-- [thiago-coucello/pyopengl-studies](https://github.com/thiago-coucello/pyopengl-studies) - A simple project for my studies in PyOpenGL for Computer Graphics implementations (7 months ago)
+- [thiago-coucello/pyopengl-studies](https://github.com/thiago-coucello/pyopengl-studies) - A simple project for my studies in PyOpenGL for Computer Graphics implementations (8 months ago)
 
 #### 📫 How to reach me
 
