@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [thiago-coucello/opengl-4fun](https://github.com/thiago-coucello/opengl-4fun) - A repository for my OpenGL projects that i made while bored and trying to have fun (11 months ago)
+- [thiago-coucello/opengl-4fun](https://github.com/thiago-coucello/opengl-4fun) - A repository for my OpenGL projects that i made while bored and trying to have fun (1 year ago)
 
 #### 📫 How to reach me
 
